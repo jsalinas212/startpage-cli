@@ -8,7 +8,7 @@ I was bored, so I built a python script to fetch search results from Startpage.
 ### Python Version
 * Tested using Python3.11
 
-### Requirements
+### Dependencies
 * BeautifulSoup
 * Requests
 * argparse
